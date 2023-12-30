@@ -6,7 +6,8 @@ function IndexPopup() {
   return (
     <div
       style={{
-        padding: 16
+        padding: 16,
+        width: 400,
       }}>
       <h2>
         Welcome to your{" "}
